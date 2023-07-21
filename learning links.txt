@@ -1,0 +1,7 @@
+EMBEDDED SYSTEMS
+-------------------
+1) (https://www.embedded.com/):      ---> For learning embedded systems.
+2) (https://www.geeksforgeeks.org/): ---> For programming
+3) (https://www.geeksforgeeks.org/): ---> For learning c by beginners
+4) (https://www.tutorialspoint.com/cprogramming/index.htm): ---> provide solid support to learn c fundementals.
+5) (https://www.coursera.org/):     ---> for doing projects and learning specifically
