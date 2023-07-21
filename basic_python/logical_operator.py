@@ -1,0 +1,8 @@
+print("Welcome to python world")
+a=eval(input("Enter a number"))
+b=eval(input("Enter 2nd number"))
+print("logical and ",a and b)
+print("logical or ",a or b)
+print("bitwise and ",a&b)
+print("bitwise or",a|b)
+print("bitwise xor ",a^b)
